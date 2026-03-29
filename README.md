@@ -6,7 +6,6 @@ This repository contains detailed study materials, explanations, and structured 
 
 The content is written in simple language with deep explanations, making it useful for both beginners and advanced learners.
 
----
 
 ## Contents
 
@@ -15,7 +14,7 @@ The content is written in simple language with deep explanations, making it usef
 * Real-world examples
 * Story-based learning for better understanding
 
----
+
 
 ## Topics Covered
 
@@ -83,4 +82,4 @@ This project is open-source and available under the MIT License.
 
 These notes are inspired by NPTEL course materials and lectures, simplified for better understanding and exam preparation.
 
----
+
